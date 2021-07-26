@@ -4,7 +4,7 @@ HELP.md
 .gradle
 build/
 target/
-out/
+out/**
 
 ### STS ###
 .apt_generated
@@ -28,7 +28,7 @@ out/
 /dist/
 /nbdist/
 /.nb-gradle/
-/.out/
+
 
 ### VS Code ###
 .vscode/
